@@ -1,0 +1,33 @@
+theme: minima
+---
+title: My Awesome Website
+author: Vimal Vinod
+
+---
+
+# Welcome to My Awesome Website
+
+This is a simple example of how to use Markdown front matter to customize your website. You can set various metadata variables like `title`, `author`, and `description` to make your site more informative.
+
+## About the Author
+
+This website is authored by {{ author }}. John Doe is an experienced web developer and enjoys sharing knowledge about web development and design.
+
+## Description
+
+{{ description }}
+
+## Getting Started
+
+To get started with customizing your own website, follow these steps:
+
+1. Clone the repository.
+2. Edit the front matter variables in your Markdown files.
+3. Add your content below the front matter.
+4. Build and deploy your website.
+
+## Conclusion
+
+Markdown front matter is a powerful way to customize the metadata of your website. It allows you to easily change the title, author, and description, among other variables, to create a personalized and informative site.
+
+Happy website building!
